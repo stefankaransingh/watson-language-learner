@@ -20,7 +20,8 @@ Learn a new word everyday using IBM Watson's Language Translator API
    - SENDER_EMAIL: "The sender's email, currently only Gmail accounts are supported."
    - SENDER_EMAIL_PASSWORD: "The sender's email account's password."
    - RECEIVER_EMAIL: "The receiver's email address."
-3. Currently the default language it translates from is English and the default langugae it translates to is Spanish. To change the language to translate to, you have to first change the value of the variable `LEARN_LANGUAGE` in the file `translate.py` to one of the following supported languages.
+3. Install the required packages using the command `pip install -r requirements.txt`
+4. Currently the default language it translates from is English and the default langugae it translates to is Spanish. To change the language to translate to, you have to first change the value of the variable `LEARN_LANGUAGE` in the file `translate.py` to one of the following supported languages.
   - French
   - Arabic
   - Spanish
