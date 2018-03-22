@@ -1,4 +1,4 @@
-# watson-language-learner
+# Learn a language using IBM Watson
 Learn a new word everyday using IBM Watson's Language Translator API
 
 ## Access Watson API's - Instructions:
